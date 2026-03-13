@@ -1,0 +1,103 @@
+{
+  "store": "game-vault",
+  "generated_at": "2026-03-13T07:35:44.025641+00:00",
+  "package_count": 12,
+  "packages": [
+    {
+      "product": "apex-movement-bible",
+      "zip_name": "apex-movement-bible-d50bfd49eb23.zip",
+      "file_count": 8,
+      "size_bytes": 33739,
+      "sha256": "f2cd810efd7c3d6f4d058d11575e9852b959f5df41fde27088f298c949994668",
+      "fingerprint": "d50bfd49eb23"
+    },
+    {
+      "product": "esports-warmup-routine",
+      "zip_name": "esports-warmup-routine-585cd35cf229.zip",
+      "file_count": 8,
+      "size_bytes": 32084,
+      "sha256": "c81f13da0ddd957b7fc78d329ae2816e9028f3b13ff01935723615b00b5cbb18",
+      "fingerprint": "585cd35cf229"
+    },
+    {
+      "product": "fortnite-pro-guide",
+      "zip_name": "fortnite-pro-guide-f7606b2f6e25.zip",
+      "file_count": 9,
+      "size_bytes": 27781,
+      "sha256": "5427acea5a64332f040d0c42741b6d2cc35c75348dfbcc6c39cd6114ea0f2b09",
+      "fingerprint": "f7606b2f6e25"
+    },
+    {
+      "product": "fps-settings-optimizer",
+      "zip_name": "fps-settings-optimizer-b4d796cd8a07.zip",
+      "file_count": 7,
+      "size_bytes": 23970,
+      "sha256": "7f63fd7105c56f1f7cc1efa4cdcb323907fa562215e658e530d43318239d4bdb",
+      "fingerprint": "b4d796cd8a07"
+    },
+    {
+      "product": "game-progression-tracker",
+      "zip_name": "game-progression-tracker-9111916f3d7c.zip",
+      "file_count": 7,
+      "size_bytes": 12287,
+      "sha256": "843d302cff97e765875d97f48a6fcc3c22d1b79023841463e941b342b92ca066",
+      "fingerprint": "9111916f3d7c"
+    },
+    {
+      "product": "game-vault-starter-bundle",
+      "zip_name": "game-vault-starter-bundle-c62cf3630390.zip",
+      "file_count": 3,
+      "size_bytes": 4782,
+      "sha256": "62e5d872a2658c1d26b382de21c684c7aa6b4035da3a688bad7db4fd48b10a3c",
+      "fingerprint": "c62cf3630390"
+    },
+    {
+      "product": "game-vault-ultimate-bundle",
+      "zip_name": "game-vault-ultimate-bundle-b3509526bedd.zip",
+      "file_count": 3,
+      "size_bytes": 6238,
+      "sha256": "69633c7e216f9fae5317a46756cd60a4758fef77dae4e5111b3bb421a23e5c98",
+      "fingerprint": "b3509526bedd"
+    },
+    {
+      "product": "gaming-keybind-planner",
+      "zip_name": "gaming-keybind-planner-ed520a97d305.zip",
+      "file_count": 8,
+      "size_bytes": 18010,
+      "sha256": "db4f98c739e3b063bc5115961e69476d7c4d8829082f6eba918018f94b584614",
+      "fingerprint": "ed520a97d305"
+    },
+    {
+      "product": "genshin-team-builder",
+      "zip_name": "genshin-team-builder-280d205881d8.zip",
+      "file_count": 9,
+      "size_bytes": 28686,
+      "sha256": "6dc132c0be2d7741b24b09aea8e43c96ffa1c1955203ea5c00009fb115511c0c",
+      "fingerprint": "280d205881d8"
+    },
+    {
+      "product": "minecraft-redstone-handbook",
+      "zip_name": "minecraft-redstone-handbook-b58d6d548e00.zip",
+      "file_count": 10,
+      "size_bytes": 26570,
+      "sha256": "62e9a466de05b718a0ff04aa698bbac4f54efcea8e4d588fad9f22ae2f5543a1",
+      "fingerprint": "b58d6d548e00"
+    },
+    {
+      "product": "roblox-dev-secrets",
+      "zip_name": "roblox-dev-secrets-0ff11d391a38.zip",
+      "file_count": 9,
+      "size_bytes": 52197,
+      "sha256": "818eb088d3d862473dad372f5ef3e828150673796bf71588c20d3e7e4800bd18",
+      "fingerprint": "0ff11d391a38"
+    },
+    {
+      "product": "valorant-aim-trainer",
+      "zip_name": "valorant-aim-trainer-35747f6f382f.zip",
+      "file_count": 8,
+      "size_bytes": 15255,
+      "sha256": "b2968328c45085456f9325bbd1a798526ae03f3ebe0e671dead1104f3970cfc1",
+      "fingerprint": "35747f6f382f"
+    }
+  ]
+}
